@@ -8,7 +8,6 @@
     Objetivo do programa: Aula 6 - Operadores de Assinalamento, incremento e decremento
     Dia do programa: 16/03/2025
 */ 
-
 // --- Função Principal ---
 int main()
 {
