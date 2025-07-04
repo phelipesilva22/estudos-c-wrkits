@@ -71,8 +71,6 @@ int main()
         scanf(" %c", &res);
         res = tolower(res);
         system("clear");
-
-
     } while (res != 'n');
     puts("ENCERRANDO O PROGRAMA...");
 
